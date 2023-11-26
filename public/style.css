@@ -1,0 +1,47 @@
+.parant{
+    background-color: coral;
+   margin: auto;
+   width: 600px;
+   height: 600px;
+}
+
+.btn-1{
+    width: 80px;
+    background-color: darkolivegreen;
+    color: wheat;
+    border: 1px solid;
+    border-top-color: red;
+    border-bottom: red;
+    border-left-color: white;
+    border-right-color: white;
+    padding: 4px;
+    border-radius: 6px;
+    
+
+}
+.btn-2{
+    width: 80px;
+    background-color: darkolivegreen;
+    color: wheat;
+    border: 1px solid;
+    border-top-color: red;
+    border-bottom: red;
+    border-left-color: white;
+    border-right-color: white;
+    padding: 4px;
+    border-radius: 6px;
+    
+
+}
+.editgap{
+    margin: 10px;
+}
+.delgap{
+    margin-left: 10px;
+}
+.list{
+    font-size: 20px;
+    /* border: 2px solid red; */
+    /* width:300px; */
+    
+}
